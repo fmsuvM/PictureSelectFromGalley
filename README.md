@@ -1,0 +1,3 @@
+#PictureSelectFromGalley
+ギャラリーから画像を1枚取得するだけのプログラム
+
